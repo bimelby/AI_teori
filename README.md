@@ -1,2 +1,2 @@
 # AI_teori
-laporan ai teroi
+laporan ai teori B2 
